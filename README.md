@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joel Jayakaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 💼 I'm a freshman pursuing my Bachelors in Management Studies at St. Xavier's College, Mumbai.
+- 💼 I'm a 3rd year student pursuing my Bachelors in Management Studies at St. Xavier's College, Mumbai.
 - 🔭 Interested in the fields of automation, data science and machine learning.
 - 🌱 Currently learning Python.
 - ⚡ Pronouns: He/Him
